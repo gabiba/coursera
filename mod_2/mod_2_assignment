@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Module 2 assignment</title>
+	</head>
+
+<body>
+	
+		<h1>Menu of the Day</h1>
+		<div class="row">
+	  		<div class="col-lg-4 col-md-6">
+	  			<div class="section">
+	  				<h2 class="First">First</h2>
+	  				<p>Fresh spring salad with lots of forest greens, tomatoes, figs and walnuts. Served with freshly baked bread and homemade vegan beetroot spread. </p>
+	  			</div>
+	  		</div>
+
+  			<div class="col-lg-4 col-md-6">
+  				<div class="section">
+  					<h2 class="Second">Second</h2>
+  					<p>Incredibly delicious vegan lentil burgers with grilled root vegetables, spicy cole slaw, vegan mayo and signuature BBQ ketchup.</p>
+  				</div>
+  			</div>
+
+  			<div class="col-lg-4 col-md-12">
+  				<div class="section">
+  					<h2 class="Dessert">Dessert</h2>
+  					<p>Triple Chocolate cake served with vanilla and salted caramel ice-cream. Comes together with a strong shot of esspresso.  </p>
+  				</div>
+  			</div>
+  			</div>
+
+</body>
+</html>
